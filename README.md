@@ -16,11 +16,6 @@ I’m Vijay Sharma, a dedicated web developer specializing in Python and its ass
 - **APIs**: RESTful APIs, GraphQL
 
 
-
-## 📈 GitHub Stats
-
-![Ilusharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilusharma&show_icons=true&count_private=true&hide_title=false&hide=prs&theme=default)
-
 ## 📫 Get in Touch
 
 - **Email**: [vijaysharma9812421607@gmail.com](mailto:vijaysharma9812421607@gmail.com)
